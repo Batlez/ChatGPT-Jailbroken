@@ -1,7 +1,9 @@
+
+
     // ==UserScript==
     // @name         ChatGPT Jailbroken! Use it for whatever
     // @namespace    https://chat.openai.com/
-    // @version      1.0
+    // @version      1.1
     // @description  ChatGPT Jailbroken! Includes FREE GPT-4
     // @author       Batlez
     // @license      MIT
@@ -46,6 +48,8 @@
       button.style.border = 'none';
       button.style.cursor = 'pointer';
      
+     
+     
       var image = document.createElement('img');
       image.src = 'https://i.imgur.com/HRzLKba.png';
       button.appendChild(image);
@@ -58,21 +62,31 @@
         cancelable: true
       });
      
-      button.addEventListener('click', function() {
-        var textarea = document.getElementById('prompt-textarea');
-        var content = textarea.value;
+    button.addEventListener('click', function() {
+      var textarea = document.querySelector('#prompt-textarea');
+      var content = textarea.value;
      
-        // If the content does not include the jailbreak prompt, append it
-        if (!content.includes(jailbreakprompt)) {
-          textarea.value = jailbreakprompt.trim() + " " + content.trim();
-        }
+      // If the content does not include the jailbreak prompt, append it
+      if (!content.includes(jailbreakprompt)) {
+        textarea.value = jailbreakprompt.trim() + " " + content.trim();
+      }
      
-        textarea.dispatchEvent(enterEvent);
+      var inputEvent = new Event('input', {
+        bubbles: true,
+        cancelable: true,
+      });
+      textarea.dispatchEvent(inputEvent);
      
-        button.classList.add('zoom-effect');
-        setTimeout(function() {
-          button.classList.remove('zoom-effect');
-        }, 1000);
+      // Find the send button using the CSS selector and click it
+      var sendButton = document.querySelector('button.absolute');
+      if (sendButton) {
+        sendButton.click();
+      }
+     
+      button.classList.add('zoom-effect');
+      setTimeout(function() {
+        button.classList.remove('zoom-effect');
+      }, 1000);
     });
      
       document.body.appendChild(button);
