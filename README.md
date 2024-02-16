@@ -48,16 +48,9 @@ To use this script, follow these steps:
 4.  Voila! The script will take care of the rest.
 5.  Enjoy the unrestricted access and engage in conversations with ChatGPT without content limitations.
 
-## Update Prompt
+## Screenshots
 
-1.  This script utilizes the jailbreak prompt from jailbreakchat.com, but also custom made ones from myself.
-2.  Follow me on Discord: Croakq.
-3.  Copy the latest working prompt that has received high votes.
-4.  Click on the Tampermonkey extension icon to open the script.
-5.  Go to the dashboard and select the Jailbreak script.
-6.  Update the prompt by pasting the new working prompt.
-7.  Save the changes.
-8.  The script is now updated and ready to use with the new prompt.
+![Screenshot 1](https://i.imgur.com/ZXfMpmn.png)
 
 ## License
 
