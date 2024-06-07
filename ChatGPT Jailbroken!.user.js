@@ -2,12 +2,12 @@
 
     // ==UserScript==
     // @name         ChatGPT Jailbroken! Use it for whatever
-    // @namespace    https://chat.openai.com/
+    // @namespace    https://chatgpt.com/
     // @version      1.1
     // @description  ChatGPT Jailbroken! Includes FREE GPT-4
     // @author       Batlez
     // @license      MIT
-    // @match        https://chat.openai.com/*
+    // @match        https://chatgpt.com/*
     // @grant        GM_addStyle
     // ==/UserScript==
      
