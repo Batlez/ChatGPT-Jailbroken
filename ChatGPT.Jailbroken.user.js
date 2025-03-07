@@ -1,4 +1,4 @@
-
+./ChatGPT.Jailbroken.user.js
 
 // ==UserScript==
 // @name         ChatGPT Jailbroken! Use it for whatever
