@@ -1,5 +1,3 @@
-
-
 // ==UserScript==
 // @name         ChatGPT Jailbroken! Use it for whatever
 // @match        *://chatgpt.com/*
@@ -46,7 +44,7 @@
       button.style.height = '40px';
       button.style.borderRadius = '5px';
       button.style.backgroundColor = 'black';
-      button.style.boxShadow = '0 0 17px 5px rgba(255, 0, 0, 0.8)';
+      button.style.boxShadow = '0 0 17px 5px rgba(0, 255, 13, 0.8)';
       button.style.border = 'none';
       button.style.cursor = 'pointer';
      
