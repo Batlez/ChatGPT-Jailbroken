@@ -2,6 +2,12 @@
 <h1 align="center">ChatGPT Jailbroken! Includes FREE GPT-4</h1>
 
 <p align="center">
+  <img src="https://img.shields.io/github/downloads/Batlez/ChatGPT-Jailbroken/total?style=for-the-badge" alt="GitHub all releases" />
+</p>
+
+
+<p align="center">
+  
   <img src="https://i.imgur.com/HRzLKba.png" alt="Logo" width="200">
 </p>
 
