@@ -1,71 +1,57 @@
 
-<h1 align="center">ChatGPT Jailbroken! Includes FREE GPT-4</h1>
+# 🚀 ChatGPT Jailbreak Pro
 
 <p align="center">
-  <img src="https://img.shields.io/github/downloads/Batlez/ChatGPT-Jailbroken/total?style=for-the-badge" alt="GitHub all releases" />
-</p>
-
-
-<p align="center">
-  
-  <img src="https://i.imgur.com/HRzLKba.png" alt="Logo" width="200">
+<img src="https://github.com/user-attachments/assets/7dafa97c-3824-4e09-b173-d6718cc2fa1b" alt="ChatGPT Jailbreak Pro Interface" width="550">
 </p>
 
 <p align="center">
-  <strong>Unlock restricted content with a click of a button</strong>
+<img src="https://img.shields.io/github/downloads/Batlez/ChatGPT-Jailbroken/total?style=for-the-badge" alt="GitHub all releases" />
 </p>
+
+## ✨ Features
+
+- 🎨 **5 Beautiful Themes** - Modern Dark, Vibrant Light, Neon Cyber, Ocean Breeze, Sunset Glow
+- 📚 **Categorized Prompts** - Creative, Educational, Problem Solving, Fun, Advanced
+- 🔍 **Smart Search** - Find prompts instantly
+- ➕ **Custom Prompts** - Create and save your own
+- 👁️ **Preview Mode** - See prompts before using
+- 📱 **Mobile Friendly** - Works on all devices
 
 <p align="center">
-  <a href="#description">Description </a>
-  ·
-  <a href="#installation">Installation</a>
-  ·
-  <a href="#usage">Usage</a>
-  ·
-  <a href="#update-prompt"> Update Prompt </a>
-  ·
-  <a href="#license">License</a>
-  
+<img src="https://github.com/user-attachments/assets/f68076b1-6ce4-4108-a3c8-a58ffd5e8a36" alt="ChatGPT Jailbreak Pro Interface" width="650">
 </p>
 
-## Description
+## 🚀 Quick Install
 
-This script for Tamper Monkey lets you access the hidden features of ChatGPT By using a custom-made jailbreak prompt, this script bypasses the usual restrictions and unlocks the full potential of ChatGPT.
+1. **Install [Tampermonkey](https://www.tampermonkey.net/)**
+2. **[Click here to install the script](https://greasyfork.org/en/scripts/487193-chatgpt-jailbreak-enhanced-by-batlez) or from this GitHub page**
+3. **Visit [ChatGPT](https://chatgpt.com)** and click the floating "🚀 Jailbreak Pro" button
 
+## 📖 How to Use
 
-## Installation
+1. **Enter your text** in the input field (replaces `##` in prompts)
+2. **Browse or search** for prompts
+3. **Click 🚀** to use a prompt or **👁️** to preview
+4. **Customize** with themes and custom prompts
 
-To use this script, follow these steps:
+<p align="center">
+<img src="https://github.com/user-attachments/assets/5605d511-60d9-46c1-b3a4-ba2b2b631efa" alt="ChatGPT Jailbreak Pro Interface" width="450">
+</p>
 
-1. Install the [TamperMonkey](https://www.tampermonkey.net/) extension for your browser.
-2.  How to use Tamper monkey: [Tutorial](https://youtu.be/8tyjJD65zws)
-3. After installing the Tampermonkey extension
+## 🛠️ Troubleshooting
 
-1.  Go to the following link: [ChatGPT Jailbreakchat](https://greasyfork.org/en/scripts/487193-chatgpt-jailbroken-use-it-for-whatever).
-2.  Click on the **Install This Script** button.
-3.  Once the installation is complete, navigate to chat.openai.com.
-4.  Check if the red button is visible on the page. This indicates that the Tampermonkey script is successfully installed.
+**Script not working?**
+- Make sure Tampermonkey is enabled
+- Refresh ChatGPT page
+- Check browser console for errors
 
-## Usage
+**Need help?** [Create an issue](https://github.com/Batlez/ChatGPT-Jailbreak-Pro/issues)
 
-1. Visit the ChatGPT website [https://chat.openai.com](https://chat.openai.com/).
-2.  On the bottom right side of the page, you will see a red ChatGPT icon button.
-3.  Click the red button.
-4.  Voila! The script will take care of the rest.
-5.  Enjoy the unrestricted access and engage in conversations with ChatGPT without content limitations.
+<div align="center">
 
-## Screenshots
+**Made with ❤️ by [Batlez](https://github.com/Batlez)**
 
-![Screenshot 1](https://i.imgur.com/ZXfMpmn.png)
+⭐ **Star this repo if you find it useful!** ⭐
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Collaboration
-If you'd like to support the project further, you can also: 
-- Follow the repository to stay updated with its latest developments. 
-- Share the project with others who might find it useful. 
-- Open issues to report bugs or request new features.
-
-Your support is greatly appreciated! Thank you! 🌟
+</div>
